@@ -505,3 +505,9 @@ p:last-child { margin-bottom: 0; }
 .modal-video-wrap:not(.has-videos) {
   display: none;
 }
+
+/* V12 Engine project: deliberately blank portfolio-card thumbnail and modal image gallery */
+.project-thumb.thumbnail-empty { background:var(--paper-raised); }
+.project-thumb.thumbnail-empty::after { content:"IMAGE COMING SOON"; position:absolute; inset:0; display:grid; place-items:center; color:var(--ink-soft); font-family:var(--font-mono); font-size:.68rem; letter-spacing:.08em; }
+.modal-thumb.modal-gallery { display:grid; grid-template-columns:1fr; gap:8px; padding:8px; background:var(--paper); }
+.modal-thumb.modal-gallery img { width:100%; height:auto; min-height:0; object-fit:contain; background:var(--paper-raised); }
