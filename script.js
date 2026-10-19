@@ -20,7 +20,7 @@ const PROJECTS = [
     tag: "High-fidelity CAD · mechanical analysis · sustainability",
     label: "02",
     image: "images/v12-engine-render.png",
-    thumbnail: "images/thumbnail_v12_engine.webp",
+    thumbnail: "images/thumbnail_v12_engine.png",
     role: "Mechanical design engineer",
     tools: "SOLIDWORKS, parametric CAD, engineering drawings, assembly & mating, stress analysis, simulation, sustainability assessment",
     description:
@@ -107,7 +107,7 @@ const PROJECTS = [
     tag: "Mobile robotics · Bluetooth control · obstacle avoidance",
     label: "08",
     image: "",
-    thumbnail: "images/thumbnail_rover.webp",
+    thumbnail: "images/thumbnail_rover.png",
     role: "Designer / engineer",
     tools: "Arduino, embedded systems, Bluetooth communication, distance sensing, motor control",
     description:
