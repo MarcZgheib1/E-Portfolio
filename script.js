@@ -1,5 +1,4 @@
-const PROJECTS = [
-  {
+const PROJECTS = [  {
     title: "Dual-Axis Desktop Turret",
     tag: "Computer vision · IoT · embedded control",
     label: "01",
@@ -31,18 +30,24 @@ const PROJECTS = [
     ]
   },
   {
-    title: "KaleidoScape",
-    tag: "Real-time computer vision → generative music",
+    title: "Motorized Sun-Tracking Patio Umbrella",
+    tag: "Solar-powered smart patio umbrella · mechanical sun tracking",
     label: "03",
-    image: "images/kaleidoscape.png",
-    thumbnail: "images/thumbnail_kaleidoscape.png",
-    role: "Designer / engineer",
-    tools: "Python, OpenCV, NumPy, Arduino, C++, Raspberry Pi, Max/MSP, OSC, SolidWorks, 3D printing",
+    image: "images/sun-tracking-umbrella.png",
+    thumbnail: "images/thumbnail_umbrella.png",
+    role: "Final year project team member",
+    tools: "SOLIDWORKS, Computer-Aided Design (CAD), steel structure, solar tracking, mechanical design",
     description:
-      "An interactive installation that converts live kaleidoscope visuals into real-time generative music. A camera captures evolving patterns while a computer-vision pipeline extracts hue, brightness, symmetry, density and geometric complexity. These parameters are mapped to pitch, key, rhythm, spatialization and harmonic structure. The system combines a SolidWorks-designed 3D-printed enclosure, Arduino–Raspberry Pi serial communication and Wi-Fi OSC streaming to Max/MSP for low-latency audio synthesis.",
+      "Aug 2023 – Jul 2025. Associated with Lebanese American University. My team and I designed a smart green patio umbrella from scratch, made of steel, up to 2.5 meters tall, and covering a 2×2 meter shading area. The full research and design was successfully completed as my final year project (FYP-II) at LAU, and the real-life prototype is now being implemented as my FYP-II project. The umbrella generates its own clean power using a solar panel mounted on top, and its smart mechanical tracking system keeps the panel perpendicular to the sun's rays while also keeping the user shaded without requiring manual adjustment. Additional features include Bluetooth speakers, night lights and phone charging ports.",
+    gallery: [
+      "images/umbrella-prototype-overview.jpg",
+      "images/umbrella-base-electronics.jpg",
+      "images/umbrella-relay-board.jpg"
+    ],
     links: [
-      ["Project showcase / files", "https://lauedu74602-my.sharepoint.com/:f:/g/personal/marc_zgheib_lau_edu/IgD1N711V3TOS6qpPvUVzZg2AZAbwWvKa7jyC8zZBeHyLn0?e=aVR4tU"],
-      ["Project data & files", "https://lauedu74602-my.sharepoint.com/:f:/g/personal/marc_zgheib_lau_edu/IgAyo11DNldhQ7VxYR2jO-idAQNtKdKERaktfjad2gRsG0g?e=C87qSa"]
+      ["Prototype demonstration 1", "https://youtu.be/i898bZoOXig"],
+      ["Prototype demonstration 2", "https://youtu.be/TAhldr2hk54"],
+      ["Project files", "https://lauedu74602-my.sharepoint.com/:f:/g/personal/marc_zgheib_lau_edu/IgCieG4UrRG0SIT60SxUsiQoAYW-u_UAsKbi1YYP4gw0xvw?e=eRDb1Q"]
     ]
   },
   {
@@ -89,17 +94,18 @@ const PROJECTS = [
     ]
   },
   {
-    title: "Motorized Sun-Tracking Patio Umbrella",
-    tag: "Solar-powered smart patio umbrella · mechanical sun tracking",
+    title: "KaleidoScape",
+    tag: "Real-time computer vision → generative music",
     label: "07",
-    image: "images/sun-tracking-umbrella.png",
-    thumbnail: "images/thumbnail_umbrella.png",
-    role: "Final year project team member",
-    tools: "SOLIDWORKS, Computer-Aided Design (CAD), steel structure, solar tracking, mechanical design",
+    image: "images/kaleidoscape.png",
+    thumbnail: "images/thumbnail_kaleidoscape.png",
+    role: "Designer / engineer",
+    tools: "Python, OpenCV, NumPy, Arduino, C++, Raspberry Pi, Max/MSP, OSC, SolidWorks, 3D printing",
     description:
-      "Aug 2023 – Jul 2025. Associated with Lebanese American University. My team and I designed a smart green patio umbrella from scratch, made of steel, up to 2.5 meters tall, and covering a 2×2 meter shading area. The full research and design was successfully completed as my final year project (FYP-II) at LAU, and the real-life prototype is now being implemented as my FYP-II project. The umbrella generates its own clean power using a solar panel mounted on top, and its smart mechanical tracking system keeps the panel perpendicular to the sun's rays while also keeping the user shaded without requiring manual adjustment. Additional features include Bluetooth speakers, night lights and phone charging ports.",
+      "An interactive installation that converts live kaleidoscope visuals into real-time generative music. A camera captures evolving patterns while a computer-vision pipeline extracts hue, brightness, symmetry, density and geometric complexity. These parameters are mapped to pitch, key, rhythm, spatialization and harmonic structure. The system combines a SolidWorks-designed 3D-printed enclosure, Arduino–Raspberry Pi serial communication and Wi-Fi OSC streaming to Max/MSP for low-latency audio synthesis.",
     links: [
-      ["Project files", "https://lauedu74602-my.sharepoint.com/:f:/g/personal/marc_zgheib_lau_edu/IgCieG4UrRG0SIT60SxUsiQoAYW-u_UAsKbi1YYP4gw0xvw?e=eRDb1Q"]
+      ["Project showcase / files", "https://lauedu74602-my.sharepoint.com/:f:/g/personal/marc_zgheib_lau_edu/IgD1N711V3TOS6qpPvUVzZg2AZAbwWvKa7jyC8zZBeHyLn0?e=aVR4tU"],
+      ["Project data & files", "https://lauedu74602-my.sharepoint.com/:f:/g/personal/marc_zgheib_lau_edu/IgAyo11DNldhQ7VxYR2jO-idAQNtKdKERaktfjad2gRsG0g?e=C87qSa"]
     ]
   },
   {
