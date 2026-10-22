@@ -42,7 +42,7 @@ const PROJECTS = [  {
     gallery: [
       "images/umbrella-prototype-overview.jpg",
       "images/umbrella-base-electronics.jpg",
-      "images/umbrella-relay-board.jpg"
+      "images/umbrella-relay-board.jpg","images/sun-tracking-umbrella.png",
     ],
     links: [
       ["Prototype demonstration 1", "https://youtu.be/i898bZoOXig"],
