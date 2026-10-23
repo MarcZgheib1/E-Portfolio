@@ -35,8 +35,8 @@ const PROJECTS = [  {
     label: "03",
     image: "images/sun-tracking-umbrella.png",
     thumbnail: "images/thumbnail_umbrella.png",
-    role: "Final year project team member",
-    tools: "SOLIDWORKS, Computer-Aided Design (), steel structure, solar tracking, mechanical design",
+    role: "CADing, Mechanism/Linkage Design, Mechatronics Integration and Electric Circuitry, Hands-on Manufacturing and Assembly",
+    tools: "SOLIDWORKS, Computer-Aided Design, Linkages, Simulations, Stress Analysis, FEA, steel structure, solar tracking, mechanical design",
     description:
       "Designed a smart green patio umbrella from scratch, made of steel, up to 2.5 meters tall, and covering a 2×2 meter shading area. The full research and design was successfully completed as my final year project (FYP-II) at LAU, and the real-life prototype was succesfully manufactured. The umbrella generates its own clean power using a solar panel mounted on top, and its smart mechanical tracking system keeps the panel perpendicular to the sun's rays while also keeping the user shaded without requiring manual adjustment. Additional features include Bluetooth speakers, night lights and phone charging ports.",
     gallery: ["images/sun-tracking-umbrella.png",
