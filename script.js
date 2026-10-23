@@ -86,7 +86,7 @@ const PROJECTS = [  {
     image: "images/micro-aid.png",
     thumbnail: "images/thumbnail_scooter.png",
     role: "Design / engineering team member",
-    tools: "CAD (SolidWorks, Shaper3D, Fusion), CMF design, KeyShot, mobility systems, suspension design, aluminium chassis, EV systems, battery integration, thermal imaging, GPS",
+    tools: "CAD (SolidWorks, Shapr3D, Fusion), CMF design, KeyShot, mobility systems, suspension design, aluminium chassis, EV systems, battery integration, thermal imaging, GPS",
     description:
       "A team-designed three-wheeled electric scooter intended to improve first-response access in earthquake-stricken areas where rubble and collapsed infrastructure block conventional emergency vehicles. The concept combines adjustable ground clearance, puncture-proof honeycomb tyres, a 50 kg payload capacity, thermal imaging with casualty segmentation, GPS and a rugged touchscreen. The design includes an independent trailing-arm suspension and high-strength 6061-T6 aluminium chassis, with foldable handlebars and a telescopic seat for compact transport.",
     links: [
