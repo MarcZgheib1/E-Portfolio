@@ -21,7 +21,7 @@ const PROJECTS = [  {
     image: "images/v12-engine-render.png",
     thumbnail: "images/thumbnail_v12_engine.png",
     role: "Mechanical design engineer",
-    tools: "SOLIDWORKS, parametric CAD, engineering drawings, assembly & mating, stress analysis, simulation, sustainability assessment",
+    tools: "SOLIDWORKS, parametric , engineering drawings, assembly & mating, stress analysis, simulation, sustainability assessment",
     description:
       "A high-fidelity SOLIDWORKS recreation of a V12 engine assembly, built from precisely modelled components and detailed engineering drawings. The project includes fully constrained assemblies and sub-assemblies, mechanical fit and motion considerations, multiple stress analyses, engineering simulations and sustainability studies to evaluate performance and design trade-offs.",
     gallery: ["images/v12-engine-render.png", "images/v12-engine-front.png", "images/v12-engine-exploded.png"],
@@ -36,7 +36,7 @@ const PROJECTS = [  {
     image: "images/sun-tracking-umbrella.png",
     thumbnail: "images/thumbnail_umbrella.png",
     role: "Final year project team member",
-    tools: "SOLIDWORKS, Computer-Aided Design (CAD), steel structure, solar tracking, mechanical design",
+    tools: "SOLIDWORKS, Computer-Aided Design (), steel structure, solar tracking, mechanical design",
     description:
       "Aug 2023 – Jul 2025. Associated with Lebanese American University. My team and I designed a smart green patio umbrella from scratch, made of steel, up to 2.5 meters tall, and covering a 2×2 meter shading area. The full research and design was successfully completed as my final year project (FYP-II) at LAU, and the real-life prototype is now being implemented as my FYP-II project. The umbrella generates its own clean power using a solar panel mounted on top, and its smart mechanical tracking system keeps the panel perpendicular to the sun's rays while also keeping the user shaded without requiring manual adjustment. Additional features include Bluetooth speakers, night lights and phone charging ports.",
     gallery: ["images/sun-tracking-umbrella.png",
@@ -86,7 +86,7 @@ const PROJECTS = [  {
     image: "images/micro-aid.png",
     thumbnail: "images/thumbnail_scooter.png",
     role: "Design / engineering team member",
-    tools: "CAD, CMF design, KeyShot, mobility systems, suspension design, aluminium chassis, EV systems, battery integration, thermal imaging, GPS",
+    tools: "CAD (SolidWorks, Shaper3D, Fusion), CMF design, KeyShot, mobility systems, suspension design, aluminium chassis, EV systems, battery integration, thermal imaging, GPS",
     description:
       "A team-designed three-wheeled electric scooter intended to improve first-response access in earthquake-stricken areas where rubble and collapsed infrastructure block conventional emergency vehicles. The concept combines adjustable ground clearance, puncture-proof honeycomb tyres, a 50 kg payload capacity, thermal imaging with casualty segmentation, GPS and a rugged touchscreen. The design includes an independent trailing-arm suspension and high-strength 6061-T6 aluminium chassis, with foldable handlebars and a telescopic seat for compact transport.",
     links: [
