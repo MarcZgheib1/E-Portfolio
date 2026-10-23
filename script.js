@@ -38,7 +38,7 @@ const PROJECTS = [  {
     role: "Final year project team member",
     tools: "SOLIDWORKS, Computer-Aided Design (), steel structure, solar tracking, mechanical design",
     description:
-      "Aug 2023 – Jul 2025. Associated with Lebanese American University. My team and I designed a smart green patio umbrella from scratch, made of steel, up to 2.5 meters tall, and covering a 2×2 meter shading area. The full research and design was successfully completed as my final year project (FYP-II) at LAU, and the real-life prototype is now being implemented as my FYP-II project. The umbrella generates its own clean power using a solar panel mounted on top, and its smart mechanical tracking system keeps the panel perpendicular to the sun's rays while also keeping the user shaded without requiring manual adjustment. Additional features include Bluetooth speakers, night lights and phone charging ports.",
+      "Designed a smart green patio umbrella from scratch, made of steel, up to 2.5 meters tall, and covering a 2×2 meter shading area. The full research and design was successfully completed as my final year project (FYP-II) at LAU, and the real-life prototype was succesfully manufactured. The umbrella generates its own clean power using a solar panel mounted on top, and its smart mechanical tracking system keeps the panel perpendicular to the sun's rays while also keeping the user shaded without requiring manual adjustment. Additional features include Bluetooth speakers, night lights and phone charging ports.",
     gallery: ["images/sun-tracking-umbrella.png",
       "images/umbrella-prototype-overview.jpg",
       "images/umbrella-base-electronics.jpg",
